@@ -147,6 +147,7 @@ button:not(:disabled) {
   outline: none !important;
   border: none !important;
   box-shadow: none !important;
+  color: white;
 }
 
 a:hover {
